@@ -1,6 +1,6 @@
 # Cyberpunk Terminal : the coolest thing i ever coded
 
-A futuristic cyberpunk-themed terminal interface with a matrix rain effect, system alerts , and hacking simulation.
+A futuristic cyberpunk-themed terminal interface with a matrix rain effect, system alerts , and hacking simulation. Just for fun
 
 ## Features 
 
